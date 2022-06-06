@@ -5,5 +5,5 @@ def multiple_returns(sentence):
         character = None
     else:
         character = sentence[0]
-        my_tuple = (lenght, character)
-        return my_tuple
+    my_tuple = (lenght, character)
+    return my_tuple
